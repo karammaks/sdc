@@ -1,0 +1,154 @@
+
+/*The New CSS File*/
+body{
+    margin: 0 0 ;
+    
+    font-family: '29LT Azer';
+    text-align: center;
+    
+}
+
+.div1{
+background-image: url('nature.jpg');
+height: 30vh;
+
+}
+
+    
+span{
+    margin: 2vh;
+    margin-right: 2vw;
+    display: inline-block;
+    text-decoration: none;
+}
+
+span a{
+    text-decoration: none;
+    color: white;
+}
+
+.div1content{
+    width: 22vw;
+    height: 15vh;
+    text-align: center;
+    margin: auto;    
+    
+}
+.div1content p{
+   
+    color: white;
+    line-height: 4vh;
+}
+
+.div1topright{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.div1topleft{
+    position: absolute;
+    left: 10px;
+    top: 5px;
+     width: 25px;
+     height: 25px;
+}
+
+.div2{
+    color:#0097ef;
+    margin-top: 10vh;
+}
+.div2 p{
+    width: 30vw;
+    height: 30vh;
+    text-align: center;
+    margin: auto;
+    line-height: 4vh;
+   
+}
+
+.div3 h2{
+    color: #0097ef;
+    height: 35vh;
+}
+
+.div3{
+ /*background: red;*/
+    
+}
+
+.backblock{
+    background: rgb(226, 226, 226);
+    
+}
+.block{
+    text-decoration: none;
+    display: inline-block;
+    width: 250px;
+    background: white;
+    text-align: center;
+    margin: auto 2vw;
+    position: relative;
+    top: -20vh;
+    border-radius: 3%;
+    box-shadow: 0 0 5px 0 rgb(175, 175, 175);
+
+}
+.block p{
+    color: grey;
+}
+.block h3{
+color: rgb(5, 129, 179);
+}
+button{
+    position: relative;
+    top: 2vh;
+    border-radius: 20px;
+    background: rgb(5, 129, 179);
+    width: 15vh;
+    height: 5vh;
+    border-style: none;
+    cursor: pointer;
+
+}
+button:hover{
+    top: 0;
+    background: purple;
+    transition: 1s;
+    
+}
+button a{
+   text-decoration: none;
+   color: white;
+}
+
+.div4{
+    margin-top: 15vh;
+}
+.div4 h2{
+    color: rgb(5, 129, 179);
+}
+.div4 h1{
+    color: rgb(0, 195, 255);
+    font-size: 5em;
+    }
+
+footer {
+    position: relative;
+    right: -90vw;
+    width: 100px;
+    height: 100px;
+    bottom: -5vh;
+}
+footer h3{
+    position:relative;
+    right: 45vw;
+    font-family:sans-serif;
+    font-size:small;
+}
+
+
+
